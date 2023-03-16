@@ -1,8 +1,8 @@
 # 💫 About Me:
 Hi, I’m Prithiraj<br>
 A result-oriented and self-motivated computer science individual.<br>
-I'm a constant learner and have the ability to adapt to new technologies<br> 
-As of now my primary focus is on Android App development<br>
+I'm a constant learner and have the ability to adapt with new technologies<br> 
+As of now my primary focus is on Native Android App development<br>
 Apart from android, i also work on game development and have worked before in AR & VR technology as well.<br>
 I am also interested in learning new technologies like web3, ML and Cyber Security etc.
 
