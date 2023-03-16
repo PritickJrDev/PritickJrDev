@@ -1,6 +1,22 @@
 # 💫 About Me:
-🔭 Hi, I’m Prithiraj...a result-oriented and self-motivated computer science individual. I'm a constant learner and have the ability to adapt to new technologies<br>👯 As of now my primary focus is on Android App development<br>🌱 Apart from android, i also work on game development and have worked before in AR & VR technology as well.<br>💬 I am also interested in learning new technologies like web3, ML and Cyber Security etc.
+Hi, I’m Prithiraj<br>
+A result-oriented and self-motivated computer science individual.<br>
+I'm a constant learner and have the ability to adapt to new technologies<br> 
+As of now my primary focus is on Android App development<br>
+Apart from android, i also work on game development and have worked before in AR & VR technology as well.<br>
+I am also interested in learning new technologies like web3, ML and Cyber Security etc.
 
+- 🔭 I’m currently working on **Native Android Application Development**
+
+- 🌱 I’m currently learning **Retrofit, Web service**
+
+- 👯 I’m looking to collaborate on **any project ideas**
+
+- 👨‍💻 All of my game dev projects are available at [https://pritickjrdev.github.io/Prithiraj-sPortfolio.github.io/](https://pritickjrdev.github.io/Prithiraj-sPortfolio.github.io/)
+
+- 💬 Ask me about **Android, Unity game development**
+
+- 📫 How to reach me **prithi95raj@gmail.com**
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Prithiraj Mahilary) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/Prithiraj Mahilary) 
@@ -22,5 +38,3 @@
 [![](https://visitcount.itsvg.in/api?id=PritickJrDev&icon=5&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-
-📫 How to reach me ... my email id: prithi95raj@gmail.com
