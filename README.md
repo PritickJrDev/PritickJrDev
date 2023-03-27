@@ -36,5 +36,3 @@ I am also interested in learning new technologies like web3, ML and Cyber Securi
 
 ---
 [![](https://visitcount.itsvg.in/api?id=PritickJrDev&icon=5&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
