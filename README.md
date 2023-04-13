@@ -8,7 +8,7 @@ I am also interested in learning new technologies like web3, ML and Cyber Securi
 
 - 🔭 I’m currently working on **Native Android Application Development**
 
-- 🌱 I’m currently learning **Retrofit, Web service**
+- 🌱 I’m currently learning **Web and Cloud service**
 
 - 👯 I’m looking to collaborate on **any project ideas**
 
