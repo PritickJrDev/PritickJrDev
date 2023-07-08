@@ -6,9 +6,9 @@ As of now my primary focus is on Native Android Apps and Game development<br>
 Apart from android, i also work on game development and have worked before in AR & VR technology as well.<br>
 I am also interested in learning new technologies like web3, ML and Cyber Security etc.
 
-- 🔭 I’m currently working on **Native Android Application Development**
+- 🔭 I’m currently working on **Native Android Application and Game Development**
 
-- 🌱 I’m currently learning **Web and Cloud service**
+- 🌱 I’m currently learning **Web and Cloud service, NetCode C#, Multiplayer**
 
 - 👯 I’m looking to collaborate on **any project ideas**
 
